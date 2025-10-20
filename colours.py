@@ -1,0 +1,25 @@
+
+    
+NC='\033[0m'       # No Color / reset
+
+# Regular Colors
+BLACK='\033[0;30m'
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+PINK='\033[38;5;205m'
+SOFT_PINK='\033[38;5;219m'
+
+LSOFT_PINK='\033[1;38;5;219m'
+LBLACK='\033[1;30m'
+LRED='\033[1;31m'
+LGREEN='\033[1;32m'
+LYELLOW='\033[1;33m'
+LBLUE='\033[1;34m'
+LPURPLE='\033[1;35m'
+LCYAN='\033[1;36m'
+LWHITE='\033[1;37m'
+LPINK='\033[1;38;5;205m'
