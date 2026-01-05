@@ -21,3 +21,4 @@ def last_10_set(results_df, type='main'):
     print(f"{colour.CYAN}Last 10 set of numbers is: \n{last_10_set}{colour.GREEN}")
 
     return last_10_set
+

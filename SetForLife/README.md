@@ -10,3 +10,16 @@ To run, export the ChatGPT Api Key using `export OPENAI_API_KEY=""`
 then run python3 setForLife.py   
 It will offer you a set of main balls and a life ball.  
 Run the setForLifeRefined.ipynb and view the charts and large dataset so see trends like how many odd/even, how many picked from previous 10 weeks, how many from each bucket etc as well as how many times the ball's been picked, how many weeks since last picked.
+
+To run iPynb notebook on my Ubuntu installation:
+
+# cd ~/venv
+# python3 -m venv --upgrade-deps .venv
+# source .venv/bin/activate
+# which python
+# which pip
+# python -m pip install --upgrade pip setuptools wheel
+# python -m pip install pandas
+# python -m pip install jupyterlab
+# python -m pip install matplotlib
+# jupyter lab
