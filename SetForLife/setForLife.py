@@ -36,7 +36,7 @@ def main():
 
 def get_results():
 
-    ###pull new results from national lottery website and store locally
+    ###pull new results from national lottery website and store locally ook
     try:
         url = 'https://www.national-lottery.co.uk/results/set-for-life/draw-history/csv'
         filename = './setForLife_new.csv'
