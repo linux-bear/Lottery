@@ -13,13 +13,13 @@ Run the setForLifeRefined.ipynb and view the charts and large dataset so see tre
 
 To run iPynb notebook on my Ubuntu installation:
 
-# cd ~/venv
-# python3 -m venv --upgrade-deps .venv
-# source .venv/bin/activate
-# which python
-# which pip
-# python -m pip install --upgrade pip setuptools wheel
-# python -m pip install pandas
-# python -m pip install jupyterlab
-# python -m pip install matplotlib
-# jupyter lab
+
+python3 -m venv --upgrade-deps .venv
+source .venv/bin/activate
+which python
+which pip
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install pandas
+python -m pip install jupyterlab
+python -m pip install matplotlib
+jupyter lab
